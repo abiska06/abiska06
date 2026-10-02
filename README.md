@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abiska Sharma 👋</h1>
 
-<!--
-**abiska06/abiska06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Artificial Intelligence • Machine Learning • MLOps</b></p>
+<p align="center">CS (AI) student building end-to-end ML systems, from training to deployment and monitoring.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning Focus
+I'm exploring **machine learning, MLOps, and LLM-based applications**, with a focus on practical, deployable projects.
+
+## ⚡ Currently Working On
+- 🤖 RAG-based Personalized Routine Generator (LangChain + ChromaDB)
+- 🧠 Understanding LLM behavior and agentic AI
+- 🚀 Building and deploying ML pipelines with Airflow, MLflow, and Docker
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,django,fastapi,docker,git,github,linux,vscode,mysql,sqlite" />
+</p>
+
+## 🚀 Featured Projects
+- **Water Quality Hazard Prediction** — end-to-end MLOps pipeline (Airflow, MLflow, FastAPI, Docker, Evidently AI)
+- **Mushroom Edibility Classification** — MLOps pipeline with Optuna tuning and drift monitoring
+- **Telco Customer Churn Prediction** — comparative ML study
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abiska06&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiska06&layout=compact&theme=dark" height="150" />
+</p>
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/abiska-sharma-b44793342) • sharmaabiska@gmail.com
