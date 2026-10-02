@@ -29,7 +29,6 @@ I'm exploring **machine learning, MLOps, and LLM-based applications**, with a fo
 </p>
 
 ## 📫 Contact
-## 📫 Contact
 <p align="center">
   <a href="https://linkedin.com/in/abiska-sharma-b44793342">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
