@@ -24,10 +24,17 @@ I'm exploring **machine learning, MLOps, and LLM-based applications**, with a fo
 - **Telco Customer Churn Prediction** — comparative ML study
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiska06&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiska06&layout=compact&theme=dark" height="150" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abiska06&show_icons=true&theme=dark&commits_year=2026" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiska06&layout=compact&theme=dark" height="150" />>
 </p>
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/abiska-sharma-b44793342) • sharmaabiska@gmail.com
+## 📫 Contact
+<p align="center">
+  <a href="https://linkedin.com/in/abiska-sharma-b44793342">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sharmaabiska@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
